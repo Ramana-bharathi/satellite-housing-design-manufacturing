@@ -11,5 +11,5 @@ Final assembly:
 
 ![assembly](pics\Assembly.jpg)
 
-Report presentation can be found in [Report](.\Report\)
+Report presentation can be found in [Report](\Report)
 
