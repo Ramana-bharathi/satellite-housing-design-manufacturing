@@ -3,13 +3,13 @@ Developed a compact light-weight satellite housing for specified dimensions of c
 
 Exploded view of the final assembly:
 
-![](D:\projects\satellite-housing-design-manufacturing\pics\Assembly_exploded.jpg)
+![](.\pics\Assembly_exploded.jpg)
 
 
 
 Final assembly:
 
-![](D:\projects\satellite-housing-design-manufacturing\pics\Assembly.jpg)
+![](.\pics\Assembly.jpg)
 
 Report presentation can be found in [Report](.\Report\)
 
